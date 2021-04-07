@@ -1,1 +1,3 @@
 # EmptyXcodeCache
+
+sh emptyXcodecache.sh
